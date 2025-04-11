@@ -1,16 +1,18 @@
-## Hi there 👋
+# Halo semua! 
 
-<!--
-**Zidan8376/Zidan8376** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Perkenalkan nama saya *Mohammad Zidan Fauzi*.
 
-Here are some ideas to get you started:
+Saya seorang *Mahasiswa Stiki Malang* di [Stiki](https://www.stiki.ac.id).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Saya mempunyai pengalaman di pemrograman selama 5 tahun.
+
+Saya juga telah menyelesaikan beberapa projek selama sekolah dan magang sejak 2016.
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhammad-dwi-prasetyo-33203721b/)ku ya.
+
+<p align="left">
+<a href="https://github.com/Prazzetyo">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Prazzetyo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Prazzetyo&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
